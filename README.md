@@ -77,11 +77,13 @@ Dataset_root
 > Note: In this project, annotations from OpenSARShip (VOC format) and FAIR-CSAR (DOTA format) have been converted to the COCO-style `[x, y, w, h]` format.
 
 ## Pre-Trained Models ヾ(*´∀ ˋ*)ﾉ
-You can leverage the pretrained weights we provide in this work as a starting point for your own fine‑tuning.The pretrained CVMT models are available on the [![models](https://img.shields.io/badge/BaiduNetdisk-Pretrained-blue.svg?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1bfvJrRYLDo9U-pkqZGGWUA).
+You can leverage the pretrained weights we provide in this work as a starting point for your own fine‑tuning.The pretrained CVMT models are available on the [![models](https://img.shields.io/badge/BaiduNetdisk-Pretrained-blue.svg?logo=baidu&logoColor=white)](https://pan.baidu.com/s/1bfvJrRYLDo9U-pkqZGGWUA) or [![dataset](https://img.shields.io/badge/GoogleDrive-dataset-blue.svg?logo=GoogleDrive&logoColor=white)](https://drive.google.com/drive/folders/1X9jSZ1j9H5SovG5dWnQ0YT3VL9TdeqV2?usp=sharing).
 
-**Link:** [https://pan.baidu.com/s/1bfvJrRYLDo9U-pkqZGGWUA](https://pan.baidu.com/s/1bfvJrRYLDo9U-pkqZGGWUA)
+**Link (BaiduNetdisk):** [https://pan.baidu.com/s/1bfvJrRYLDo9U-pkqZGGWUA](https://pan.baidu.com/s/1bfvJrRYLDo9U-pkqZGGWUA)
 
-**Extraction code:** iq95
+**Link (GoogleDrive):** [https://drive.google.com/drive/folders/1X9jSZ1j9H5SovG5dWnQ0YT3VL9TdeqV2?usp=sharing](https://drive.google.com/drive/folders/1X9jSZ1j9H5SovG5dWnQ0YT3VL9TdeqV2?usp=sharing)
+
+**Extraction code (BaiduNetdisk):** iq95
 
 
 
