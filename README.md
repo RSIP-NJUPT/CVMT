@@ -1,6 +1,6 @@
 # CVMT：Complex-valued mix transformer for SAR ship detection
 <p align="center">
-<a href="https://doi.org/10.1016/j.isprsjprs.2025.10.018"><img src="https://img.shields.io/badge/Paper-ISPRS%20JP%26RS-%23FF4203"></a>
+<a href="https://doi.org/10.1016/j.isprsjprs.2025.10.018"><img src="https://img.shields.io/badge/Paper-ISPRS%20P%26RS-%23FF4203"></a>
 
 </p>
 
