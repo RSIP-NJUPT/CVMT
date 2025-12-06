@@ -13,7 +13,7 @@ from mmdet.models.losses.iou_loss import GIoULoss
 from mmdet.models.losses.smooth_l1_loss import L1Loss
 from mmdet.models.task_modules import (BBoxL1Cost, FocalLossCost,
                                        HungarianAssigner, IoUCost)
-from mmdet.models.detectors.CVMT import CVMT
+from mmdet.models.detectors.cvmt import CVMT
 
 with read_base():
     from .._base_.datasets.CVMT_coco_detection import *
