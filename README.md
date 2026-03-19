@@ -8,7 +8,7 @@ This an official Pytorch implementation of our paper **"Complex-valued mix trans
 
 ![img](https://github.com/RSIP-NJUPT/CVMT/blob/main/network_base.png)
 
-- Notablely, CVMT is built on top of [MMDetection3.x](https://github.com/open-mmlab/mmdetection) with an added dual-stream data loading and processing mechanism. We hope that our approach and code will be helpful for your related research.
+- Notably, CVMT is built on top of [MMDetection3.x](https://github.com/open-mmlab/mmdetection) with an added dual-stream data loading and processing mechanism. We hope that our approach and code will be helpful for your related research.
 
 ## ⚡News
 
